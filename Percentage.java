@@ -16,9 +16,12 @@ class Percentage
 		System.out.println("first class ");
 
 		else if(p>=50)
-		System.out.println("secound class");
+		System.out.println("second class");
 
 		else if(p<=40)
+		System.out.println("Third Class");
+		
+		else if(p<=30)
 		System.out.println("failed");
 
 	}
