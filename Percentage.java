@@ -25,4 +25,5 @@ class Percentage
 		System.out.println("failed");
 
 	}
+	System.out.println("Done");
 }
